@@ -8,6 +8,7 @@
 
 #import "AppDelegate.h"
 
+//这是我第一次增加的代码
 @interface AppDelegate ()
 
 @end
